@@ -1,0 +1,3 @@
+This project is called FAFSACompNC which is short for FAFSA completion in North Carolina. This data was obtained from data.gov. The basemap is from leaflet and the data on the map is a shaded choropleth map. 
+The shading shows a miniumum estimated percent of completed and submitted FAFSAs from first time applicants at county schools across the state of North Carolina. The counties data was obtained from the US Census and 
+the data was added to the counties GeoJson with geojson.io Most of the index.html code was altered from code provided by my professor Johnathan Sugg at Appalachian State University.
